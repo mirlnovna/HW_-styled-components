@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HW_-styled-components/static/css/main.2a097ff6.css",
+    "main.js": "/HW_-styled-components/static/js/main.15021821.js",
+    "index.html": "/HW_-styled-components/index.html",
+    "main.2a097ff6.css.map": "/HW_-styled-components/static/css/main.2a097ff6.css.map",
+    "main.15021821.js.map": "/HW_-styled-components/static/js/main.15021821.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a097ff6.css",
+    "static/js/main.15021821.js"
+  ]
+}
